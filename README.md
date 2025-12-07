@@ -28,9 +28,9 @@ The goal of this repository is to document the **Modern Growth Stack**—moving 
 ## Data Scraping & Enrichment
 *Tools to turn a company name or profile into a verified email and data set.*
 
-- [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
 - [Apify](https://apify.com) - Extensive marketplace of pre-built scrapers (Google Maps, Instagram, TikTok, etc.).
 - [Apollo](https://apollo.io) - Massive database of B2B contacts with built-in enrichment features.
+- [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Proxycurl](https://proxycurl.com) - API to pull fresh data from LinkedIn profiles and companies.
 
