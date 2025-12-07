@@ -2,7 +2,7 @@
 
 A curated list of the best AI-powered tools for Lead Generation, Social Listening, Data Enrichment, and Automated Outreach.
 
-The goal of this repository is to document the **Modern Growth Stack**—moving away from static databases and towards intent-based, AI-driven customer acquisition.
+The goal of this repository is to document the **Modern Growth Stack**, moving away from static databases and towards intent-based, AI-driven customer acquisition.
 
 ## 📖 Contents
 
