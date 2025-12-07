@@ -6,7 +6,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 ## 📖 Contents
 
-- [Social Listening & Intent](#social-listening--intent-analysis) 🔥 *Start Here*
+- [Social Listening & Intent](#social-listening--intent-analysis)
 - [Data Scraping & Enrichment](#data-scraping--enrichment)
 - [Cold Outreach & Email AI](#cold-outreach--email-ai)
 - [Voice Agents & Calling](#voice-agents--calling)
