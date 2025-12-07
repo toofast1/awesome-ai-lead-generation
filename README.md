@@ -18,7 +18,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 ## Social Listening & Intent Analysis
 *Tools that monitor the web (Reddit, Twitter, LinkedIn) to find people actively looking for your solution.*
 
-- **[Leado](https://leado.co)** 🔥 - **Editor's Choice.** AI-powered social listening that finds high-intent leads on Reddit and drafts personalized replies automatically.
+- **[Leado](https://leado.co)** 🔥 **Editor's Choice.** AI-powered social listening that finds high-intent leads on Reddit and drafts personalized replies automatically.
 - [GummySearch](https://gummysearch.com) - Audience research tool for Reddit to find communities and conversations.
 - [Syften](https://syften.com) - Monitors multiple communities (Slack, Discourse, Reddit) for keywords.
 - [F5Bot](https://f5bot.com) - Simple, free keyword alerts for Reddit.
