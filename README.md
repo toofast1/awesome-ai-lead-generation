@@ -51,6 +51,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 *AI that can speak to prospects or handle inbound calls.*
 
 - [Bland AI](https://bland.ai) - Realistic AI phone calling agents that can handle complex conversations.
+- [Fireflies.ai](https://fireflies.ai) - While primarily a meeting recorder, it enriches CRM data by analyzing sentiment and action items from sales calls.
 - [Synthflow](https://synthflow.ai) - No-code builder for AI voice assistants.
 - [Vapi](https://vapi.ai) - Voice AI infrastructure for developers to build voice assistants.
 
