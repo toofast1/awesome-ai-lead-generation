@@ -21,7 +21,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 **Editor's choice** 🔥
 - [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent leads and writes personalized replies automatically.
   
---
+---
 
 - [Awario](https://awario.com) - Enterprise-level brand monitoring and social listening tool.
 - [Buska](https://buska.io) - Mentions monitoring with sentiment analysis.
