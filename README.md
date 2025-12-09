@@ -60,6 +60,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 - [Copy.ai](https://copy.ai) - GTM AI platform for generating marketing copy at scale.
 - [Jasper](https://jasper.ai) - AI writer for enterprise marketing teams.
+- [Taplio](https://taplio.com) - AI content generation specifically for building a personal brand and generating inbound leads on LinkedIn.
 - [Warmer.ai](https://warmer.ai) - AI that writes unique email intro lines based on a prospect's website.
 
 ---
