@@ -36,7 +36,6 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Apollo](https://apollo.io) - Massive database of B2B contacts with built-in enrichment features.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
-- [Proxycurl](https://proxycurl.com) - API to pull fresh data from LinkedIn profiles and companies.
 
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
@@ -65,7 +64,3 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
