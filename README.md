@@ -17,8 +17,11 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 ## Social Listening & Intent Analysis
 *Tools that monitor the web (Reddit, Twitter/X, LinkedIn) to find people actively looking for your solution.*
+**Editor's Choice** 🔥
+- [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent leads and writes personalized replies automatically.
+  
+---
 
-- **Editor's Choice** - [Leado](https://leado.co) 🔥 AI-powered Reddit lead generation tool that monitors subreddits for high-intent leads and writes personalized replies automatically.
 - [Awario](https://awario.com) - Enterprise-level brand monitoring and social listening tool.
 - [Buska](https://buska.io) - Mentions monitoring with sentiment analysis.
 - [F5Bot](https://f5bot.com) - Simple, free keyword alerts for Reddit.
