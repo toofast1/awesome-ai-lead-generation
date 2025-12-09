@@ -34,9 +34,10 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 - [Apify](https://apify.com) - Extensive marketplace of pre-built scrapers (Google Maps, Instagram, TikTok, etc.).
 - [Apollo](https://apollo.io) - Massive database of B2B contacts with built-in enrichment features.
+- [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
-- [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
+- [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
