@@ -38,6 +38,8 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
+- [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery platform that extracts verified business leads (emails & phone numbers) by niche and location for targeted lead generation.
+
 
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
