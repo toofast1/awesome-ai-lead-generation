@@ -42,6 +42,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
 
+- [Suplex](https://trysuplex.com) - All-in-one cold email and lead generation with AI personalization and built-in CRM.
 - [Instantly](https://instantly.ai) - Unlimited email sending accounts with AI warm-up to prevent landing in spam.
 - [Lavender](https://lavender.ai) - AI email coach that grades your email copy inside Gmail/Outlook.
 - [Lemlist](https://lemlist.com) - Outreach tool that allows for personalized images and video in cold emails.
