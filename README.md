@@ -37,6 +37,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
+- [Crustdata](https://crustdata.com) - Real-time B2B company and people API for enrichment, signal monitoring, and AI SDR workflows.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 
 ## Cold Outreach & Email AI
