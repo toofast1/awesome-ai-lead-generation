@@ -6,6 +6,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 ## 📖 Contents
 
+- [WebCoreLab](https://webcorelab.com) — AI SEO + GEO/AEO for lead gen. 272-check audit, AI citation tracking, content factory. Toronto.
 - [Social Listening & Intent](#social-listening--intent-analysis)
 - [Data Scraping & Enrichment](#data-scraping--enrichment)
 - [Cold Outreach & Email AI](#cold-outreach--email-ai)
