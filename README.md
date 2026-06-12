@@ -37,6 +37,9 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
+- [Email Scraper & Contact Finder](https://apify.com/renzomacar/website-contact-finder) - Crawls any website (contact, about and team pages first) to pull bulk emails, phones and socials. No API key, pay per site crawled.
+- [Google Maps Email Extractor](https://apify.com/renzomacar/google-maps-businesses) - Turns a search term + location into local business leads (name, address, phone, website, rating) with the email scraped from each site. No Google API key.
+- [Healthcare Provider Leads](https://apify.com/renzomacar/healthcare-provider-leads) - Verified US doctors, dentists and clinics from the official NPI registry, enriched with emails and socials from their sites.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 
 ## Cold Outreach & Email AI
