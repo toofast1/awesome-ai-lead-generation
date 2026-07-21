@@ -46,6 +46,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Instantly](https://instantly.ai) - Unlimited email sending accounts with AI warm-up to prevent landing in spam.
 - [Lavender](https://lavender.ai) - AI email coach that grades your email copy inside Gmail/Outlook.
 - [Lemlist](https://lemlist.com) - Outreach tool that allows for personalized images and video in cold emails.
+- [OutreachAgent](https://outreachagent.dev) - API-first cold outbound infrastructure for AI agents with reply-aware workflows, signed webhooks, sender pacing, and deliverability guardrails.
 - [Smartlead](https://smartlead.ai) - Cold email infrastructure focusing on deliverability and API automation.
 
 ## Voice Agents & Calling
