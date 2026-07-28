@@ -28,6 +28,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [F5Bot](https://f5bot.com) - Simple, free keyword alerts for Reddit.
 - [GummySearch](https://gummysearch.com) - Audience research tool for Reddit to find communities and conversations.
 - [Syften](https://syften.com) - Monitors multiple communities (Slack, Discourse, Reddit) for keywords.
+- [Trayo](https://www.trayo.ai) - Detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
 - [Xquik](https://xquik.com/en) - X automation platform with REST API, MCP server, webhooks, and public X data tools.
 
 ## Data Scraping & Enrichment
