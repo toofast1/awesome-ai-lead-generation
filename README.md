@@ -55,6 +55,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Fireflies.ai](https://fireflies.ai) - While primarily a meeting recorder, it enriches CRM data by analyzing sentiment and action items from sales calls.
 - [Synthflow](https://synthflow.ai) - No-code builder for AI voice assistants.
 - [Vapi](https://vapi.ai) - Voice AI infrastructure for developers to build voice assistants.
+- [Workforce Wave](https://www.workforcewave.com) - AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for service businesses.
 
 ## AI Copywriting & Personalization
 *Tools that generate unique messaging for every single lead.*
