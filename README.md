@@ -20,6 +20,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 **Editor's choice** 🔥
 - [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent leads and writes personalized replies automatically.
+- [Threadly](https://www.usethreadly.co) - Finds relevant conversations on X (Twitter) matching your keywords and drafts AI replies for you to approve before anything posts.
   
 ---
 
