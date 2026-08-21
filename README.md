@@ -48,6 +48,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Lemlist](https://lemlist.com) - Outreach tool that allows for personalized images and video in cold emails.
 - [Smartlead](https://smartlead.ai) - Cold email infrastructure focusing on deliverability and API automation.
 
+- [LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h?utm_source=github&utm_medium=awesome_list&utm_campaign=leadbot24h&utm_content=ai-lead-generation) - AI WhatsApp lead qualification for n8n. Scores inbound leads 1-5 with free AI (Gemini), routes hot prospects to sales instantly. Zero paid API cost.
 ## Voice Agents & Calling
 *AI that can speak to prospects or handle inbound calls.*
 
