@@ -53,6 +53,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 - [Bland AI](https://bland.ai) - Realistic AI phone calling agents that can handle complex conversations.
 - [Fireflies.ai](https://fireflies.ai) - While primarily a meeting recorder, it enriches CRM data by analyzing sentiment and action items from sales calls.
+- [Hermes](https://www.buildwithhermes.com/) - White-label voice agent platform for agencies, bundling calling, CRM, campaigns, and per-client billing in one workspace.
 - [Synthflow](https://synthflow.ai) - No-code builder for AI voice assistants.
 - [Vapi](https://vapi.ai) - Voice AI infrastructure for developers to build voice assistants.
 
