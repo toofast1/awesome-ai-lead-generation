@@ -37,7 +37,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
-- [OutSend](https://outsend.xyz) - All-in-one B2B prospecting platform that scrapes Google Maps and directories, enriches leads with emails and phone numbers, and verifies contacts at scale.
+- [OutSend](https://outsend.xyz) - Scrapes Google Maps and directories, then enriches leads with verified emails and phone numbers.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 
 ## Cold Outreach & Email AI
