@@ -40,6 +40,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
+- [Funding Signals](https://fundingsignals.net?utm_source=github&utm_medium=awesome-list) - Scores companies that just raised capital as sales leads, straight from public SEC Form D filings, then enriches each into a real domain, contact email, and the named executives' LinkedIn/X profiles.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 - [Vibe Prospecting](https://www.vibeprospecting.ai/) - AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
 
