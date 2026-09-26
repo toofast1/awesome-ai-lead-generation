@@ -30,6 +30,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [F5Bot](https://f5bot.com) - Simple, free keyword alerts for Reddit.
 - [GummySearch](https://gummysearch.com) - Audience research tool for Reddit to find communities and conversations.
 - [Syften](https://syften.com) - Monitors multiple communities (Slack, Discourse, Reddit) for keywords.
+- [ThreadFox](https://threadfox.vip) - Reddit outreach tools for Claude Desktop, Claude Code and Codex that find conversations where people ask for what you sell, draft replies you approve, post from your own Chrome and recheck each post; free read-only research server [ThreadFox Lite](https://github.com/amflimited/threadfox-lite).
 - [Xquik](https://xquik.com/en) - X automation platform with REST API, MCP server, webhooks, and public X data tools.
 
 ## Data Scraping & Enrichment
