@@ -50,6 +50,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Lavender](https://lavender.ai) - AI email coach that grades your email copy inside Gmail/Outlook.
 - [Lemlist](https://lemlist.com) - Outreach tool that allows for personalized images and video in cold emails.
 - [Smartlead](https://smartlead.ai) - Cold email infrastructure focusing on deliverability and API automation.
+- [TeleTraff](https://teletraff.com/en) - Telegram outreach and promotion panel: DM campaigns, AI comments on channel posts, inviting and AI dialogs that take a lead from the first reply to payment.
 
 ## Voice Agents & Calling
 *AI that can speak to prospects or handle inbound calls.*
