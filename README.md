@@ -46,6 +46,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
 
+- [BacklinkGenie](https://backlinkgenie.com) - AI agent that finds blog posts where your product fits, writes a pitch to each editor and sends it from a separate warmed-up mailbox.
 - [Instantly](https://instantly.ai) - Unlimited email sending accounts with AI warm-up to prevent landing in spam.
 - [Lavender](https://lavender.ai) - AI email coach that grades your email copy inside Gmail/Outlook.
 - [Lemlist](https://lemlist.com) - Outreach tool that allows for personalized images and video in cold emails.
