@@ -41,7 +41,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 *Tools for Generative Engine Optimization (GEO) that monitor citations, benchmark brand visibility, and capture inbound leads from AI search engines (ChatGPT, Perplexity, Claude, Gemini).*
 
 **Editor's choice** 🔥
-- [Picked](https://picked.so) - GEO platform that tracks AI search visibility and generates optimized content designed to rank on target keywords and get cited across ChatGPT, Perplexity, and Claude.
+- [Picked](https://picked.so) - GEO platform that tracks AI search visibility and generates optimized content designed to rank on target keywords and get cited across Google, ChatGPT, Perplexity, Gemini and Claude.
 
 ---
 
