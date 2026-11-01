@@ -68,6 +68,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Firecrawl](https://www.firecrawl.dev) - Web search and scraping API for AI agents, with company and people data through Firecrawl Alexandria.
 - [Geonode](https://geonode.com) - Residential and datacenter proxy network with REST API access for web scraping pipelines.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
+- [twtData](https://twtdata.com) - Exports the followers or following of any public X (Twitter) account, plus tweets, lists and Spaces, to CSV with profile data for lead lists.
 - [Vibe Prospecting](https://www.vibeprospecting.ai/) - AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
 
 ## Autonomous AI SDRs
