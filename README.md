@@ -102,6 +102,9 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 *AI video generation tools that dynamically personalize sales pitches with prospect names, websites, and custom avatars.*
 
 - [HeyGen](https://www.heygen.com) - Video AI platform that generates personalized video sales pitches at scale.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Potion](https://www.sendpotion.com) - AI video generation platform specifically designed for B2B cold outreach campaigns.
 - [Sendspark](https://www.sendspark.com) - Dynamic AI video outreach tool that records custom backgrounds (prospect's site or LinkedIn) with personalized intros.
 - [Tavus](https://www.tavus.io) - Programmatic video personalization engine that clones voice and face to create 1-to-1 outreach videos.
