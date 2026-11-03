@@ -108,6 +108,9 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s 21:9 solo video (Paid from $7.99; not affiliated with Riot/K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99; unofficial)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99; unofficial)
 - [Potion](https://www.sendpotion.com) - AI video generation platform specifically designed for B2B cold outreach campaigns.
 - [Sendspark](https://www.sendspark.com) - Dynamic AI video outreach tool that records custom backgrounds (prospect's site or LinkedIn) with personalized intros.
 - [Tavus](https://www.tavus.io) - Programmatic video personalization engine that clones voice and face to create 1-to-1 outreach videos.
