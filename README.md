@@ -62,6 +62,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 - [Apify](https://apify.com) - Extensive marketplace of pre-built scrapers (Google Maps, Instagram, TikTok, etc.).
 - [Apollo](https://apollo.io) - Massive database of B2B contacts with built-in enrichment features.
+- [ATS Hiring Signals](https://apify.com/goldenrod_serrano/ats-hiring-signals) - Apify Actor (by me) that scrapes Greenhouse, Lever, Ashby, Workable, SmartRecruiters and Recruitee boards into a normalized job table plus a 0–100 hiring-signal score per company.
 - [Bright Data](https://brightdata.com) - Heavy-duty web data platform for large-scale extraction.
 - [Browse AI](https://browse.ai) - No-code web automation to extract data from any website and monitor changes.
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
@@ -69,6 +70,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Geonode](https://geonode.com) - Residential and datacenter proxy network with REST API access for web scraping pipelines.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 - [Vibe Prospecting](https://www.vibeprospecting.ai/) - AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
+- [Workday Hiring Signals](https://apify.com/goldenrod_serrano/workday-hiring-signals) - Apify Actor (by me) that scrapes public Workday career sites with country filters and returns normalized jobs plus hiring-signal scores.
 
 ## Autonomous AI SDRs
 *Autonomous sales agents that research accounts, write hyper-personalized pitches, and handle objections to book meetings.*
