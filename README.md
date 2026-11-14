@@ -96,6 +96,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 - [Dripify](https://dripify.io) - Advanced LinkedIn automation tool for running smart multi-step lead gen funnels.
 - [HeyReach](https://heyreach.io) - Scales LinkedIn outreach safely using multiple sender accounts and centralized inboxes.
+- [Linkedcamp](https://www.linkedcamp.com) - Automates LinkedIn and email outreach for lead generation agencies, with a hosted MCP server for running campaigns from AI assistants.
 - [Waalaxy](https://www.waalaxy.com) - Automated multi-channel sequences combining LinkedIn connection requests and cold emails.
 
 ## AI Video Outreach
