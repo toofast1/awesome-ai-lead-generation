@@ -67,6 +67,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Clay](https://clay.com) - The spreadsheet that fills itself. Integrates 50+ data providers to enrich lead lists using AI.
 - [Firecrawl](https://www.firecrawl.dev) - Web search and scraping API for AI agents, with company and people data through Firecrawl Alexandria.
 - [Geonode](https://geonode.com) - Residential and datacenter proxy network with REST API access for web scraping pipelines.
+- [LeadSets](https://www.leadsets.ai) - Unlimited B2B Contact Data for AI agents. Search, enrich and verify work emails over MCP or REST, with flat plans from $29/mo.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 - [Vibe Prospecting](https://www.vibeprospecting.ai/) - AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
 
