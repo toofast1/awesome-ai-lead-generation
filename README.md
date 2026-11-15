@@ -69,6 +69,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Geonode](https://geonode.com) - Residential and datacenter proxy network with REST API access for web scraping pipelines.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 - [Vibe Prospecting](https://www.vibeprospecting.ai/) - AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server and live-music venue directory for independent artists and booking agents to discover verified venues and booking contacts across the US and British Columbia.
 
 ## Autonomous AI SDRs
 *Autonomous sales agents that research accounts, write hyper-personalized pitches, and handle objections to book meetings.*
