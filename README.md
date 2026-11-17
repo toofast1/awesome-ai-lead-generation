@@ -90,6 +90,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Lavender](https://lavender.ai) - AI email coach that grades your email copy inside Gmail/Outlook.
 - [Lemlist](https://lemlist.com) - Outreach tool that allows for personalized images and video in cold emails.
 - [Smartlead](https://smartlead.ai) - Cold email infrastructure focusing on deliverability and API automation.
+- [warmed-up.email](https://warmed-up.email) - Autonomous email warmup engine featuring peer-to-peer B2B conversation generation and spam rescue watchdog.
 
 ## LinkedIn & Multi-Channel Outreach
 *Tools that automate social selling, connection requests, and multichannel follow-up sequences.*
