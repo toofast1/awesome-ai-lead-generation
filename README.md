@@ -76,6 +76,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [11x](https://11x.ai) - Autonomous AI sales development representatives (Alice & Jordan) that prospect and engage leads 24/7.
 - [AiSDR](https://aisdr.com) - AI sales agent that scores leads and automates outbound conversations until a meeting is booked.
 - [Artisan](https://artisan.co) - AI B2B SDR platform (Ava) that consolidates lead data, personalized email writing, and automated booking.
+- [Vendo AI](https://vendo-ai.com/vendo-sdr/) - AI SDR that watches 20 sources of buying signals (hiring, funding, new leaders, tech changes), finds the decision-maker and writes email and LinkedIn outreach around the signal.
 - [Regie.ai](https://www.regie.ai) - Autonomous prospecting agents that generate outbound sequences tailored to buyer personas.
 
 ## Cold Outreach & Email AI
