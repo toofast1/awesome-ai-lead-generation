@@ -33,6 +33,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Awario](https://awario.com) - Enterprise-level brand monitoring and social listening tool.
 - [Buska](https://buska.io) - Mentions monitoring with sentiment analysis.
 - [F5Bot](https://f5bot.com) - Simple, free keyword alerts for Reddit.
+- [Free Reddit Lead Finder by SignalSeek](https://signalseek.cc/free-reddit-lead-finder) - Free, no-signup tool that finds Reddit threads from the past year where people ask for your product, marked by buying intent.
 - [GummySearch](https://gummysearch.com) - Audience research tool for Reddit to find communities and conversations.
 - [Syften](https://syften.com) - Monitors multiple communities (Slack, Discourse, Reddit) for keywords.
 - [Xquik](https://xquik.com/en) - X automation platform with REST API, MCP server, webhooks, and public X data tools.
