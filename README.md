@@ -69,6 +69,12 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [Geonode](https://geonode.com) - Residential and datacenter proxy network with REST API access for web scraping pipelines.
 - [PhantomBuster](https://phantombuster.com) - The standard for automating actions and scraping data from LinkedIn, Instagram, and Google Maps.
 - [Vibe Prospecting](https://www.vibeprospecting.ai/) - AI-powered B2B prospecting platform for finding and enriching companies and decision-makers using natural-language prompts.
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ## Autonomous AI SDRs
 *Autonomous sales agents that research accounts, write hyper-personalized pitches, and handle objections to book meetings.*
