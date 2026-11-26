@@ -77,6 +77,7 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 - [AiSDR](https://aisdr.com) - AI sales agent that scores leads and automates outbound conversations until a meeting is booked.
 - [Artisan](https://artisan.co) - AI B2B SDR platform (Ava) that consolidates lead data, personalized email writing, and automated booking.
 - [Regie.ai](https://www.regie.ai) - Autonomous prospecting agents that generate outbound sequences tailored to buyer personas.
+- [SoloRiff](https://soloriff.com) - AI sales agent that finds buyers from your website, verifies addresses, writes to each lead, answers replies and books meetings.
 
 ## Cold Outreach & Email AI
 *The engine for sending emails at scale with high deliverability.*
